@@ -20,3 +20,14 @@ Las pruebas cubren validaciones de estado, estructura, contenido y tiempo de res
 - JSON Schema Validation
 
 ## 📂 Estructura del proyecto
+
+api-standard-tests/
+│
+├── test_api_endpoints.py # Pruebas principales
+├── data/ # Datos de prueba (URLs, payloads)
+├── utils/ # Funciones auxiliares
+└── README.md
+
+
+📊 Resultados de pruebas
+Puedes consultar el detalle de endpoints y validaciones en este https://docs.google.com/spreadsheets/d/1IR6bjQKEU9KcKddGh38M7my3Pf6m0iMz/edit?gid=923318552#gid=923318552
